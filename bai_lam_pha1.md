@@ -147,10 +147,11 @@ Bắt đầu câu trả lời bằng kí tự {
 
 ### b) Hai điều cần kiểm tra ở JSON đầu ra của Trạm 1
 
+```text
 1. (Kiểm tra định dạng: đây phải là JSON hợp lệ, chỉ có một đối tượng, đúng 4 trường; loai_su_co chỉ là một trong 4 nhãn cố định (hong_san_pham, giao_tre, huong_dan, khac); san_pham_bi_nut và giao_san_pham_tre đúng kiểu số nguyên (hoặc null); tom_tat không quá 20 từ. Sai định dạng thì Trạm 2 không đọc được.
 
 2. Kiểm tra nội dung so với email gốc: loai_su_co phải đúng (email này là hong_san_pham, không phải huong_dan vì khách còn khen nhân viên), so_khach phải bằng 2 và giao_tre phải bằng 2. Hai số này được Trạm 2 dùng để nhân ra mức đền bù (150.000 × khách × sản phẩm) nên sai ở Trạm 1 sẽ kéo theo sai mức đền bù và sai quyết định cần duyệt ở các trạm sau.
-
+```
 
 ### c) Câu lệnh viết tiếp
 
