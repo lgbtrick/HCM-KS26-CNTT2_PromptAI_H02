@@ -3,7 +3,7 @@
 - **Mã đề:** 09
 - **Họ tên:*Lê Gia Bảo*
 - **Lớp:*HCM-KS26-CNTT2*
-- **Link repository Pha2:**
+- **Link repository Pha2:*https://github.com/lgbtrick/HCM-KS26-CNTT2_PromptAI_H02/blob/main/bai_lam_pha2.md*
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):*Gemini*
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
